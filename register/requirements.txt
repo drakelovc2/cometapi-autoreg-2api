@@ -1,0 +1,7 @@
+requests>=2.31
+camoufox>=0.4
+playwright>=1.40
+pyotp>=2.9
+# опционально: альтернативные движки (core/engines.py подхватит, если стоят)
+# patchright>=1.40
+# invisible-playwright>=2.0

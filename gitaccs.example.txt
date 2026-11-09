@@ -1,0 +1,5 @@
+# GitHub-пул: по строке на аккаунт
+# email:password:TOTP_SECRET:recovery_codes:username
+# recovery_codes можно оставить пустым; username — для логов/профиля
+user1@example.com:password1:JBSWY3DPEHPK3PXP::login1
+user2@example.com:password2:JBSWY3DPEHPK3PXP::login2
