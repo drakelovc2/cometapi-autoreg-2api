@@ -114,3 +114,8 @@ OAuth — оставьте пустым.
 ## Лицензия
 
 MIT + условие добросовестного использования — см. [LICENSE](LICENSE).
+---
+
+🔥 Telegram: [@antivibedrake](https://t.me/antivibedrake) · [@zakurulife](https://t.me/zakurulife)
+
+Только для личного использования — см. [DISCLAIMER.md](DISCLAIMER.md).
